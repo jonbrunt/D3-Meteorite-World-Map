@@ -1,2 +1,2 @@
-# d3_Meteorite_World_Map
-A D3 generated world map displaying historical meteorite strikes
+# D3 Meteorite World Map
+A world map displaying historical meteorite strikes, with a tooltip highlighting meteorite data, utilizing D3.js and and API
